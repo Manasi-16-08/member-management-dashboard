@@ -34,7 +34,7 @@ This project demonstrates a responsive and modular dashboard application develop
 ---
 
 ## Project Structure
-
+```
 member-management-dashboard/
 ├── src/ # Application source code
 │ ├── assets/ # Static assets
@@ -50,8 +50,7 @@ member-management-dashboard/
 ├── vite.config.ts # Vite configuration
 ├── .gitignore
 └── README.md
-
-
+```
 ---
 
 ## Getting Started
